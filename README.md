@@ -9,18 +9,18 @@ vlowe@salesforce.com
 Vincent's Blog: https://techwhine.panreality.com/
 
 -------------------------------------------------------------------------------------------------------------------
-Trailhead Academy:				https://trailheadacademy.salesforce.com/my-learning
+Trailhead Academy:			https://trailheadacademy.salesforce.com/my-learning
 
-Attendance Code:				
+Attendance Code:				PUAXNH
 
 Salesforce Mimeo:				https://salesforce.mimeo.digital/MuleSoft
 
-eBook Redemption Key:				
+eBook Redemption Key:		USQXOQOUQO4T
 
 -------------------------------------------------------------------------------------------------------------------
-Survey Link:								https://www.research.net/r/trailheadacademy
+Survey Link:							https://www.research.net/r/trailheadacademy
 
-Survey ID:								
+Survey ID:								TASM-039145
 
 -------------------------------------------------------------------------------------------------------------------
 
