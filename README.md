@@ -60,6 +60,8 @@ Classroom Playlist
 |Smooth Criminal|Luca Stricagnoli||
 |Dos Oruguitas|Steven Joseph||
 |Here We Go Again|Ray Charles and Norah Jones||
+|How Can You Mend a Broken Heart|Al Green||
+
 
 
 
