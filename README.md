@@ -1,6 +1,6 @@
 # 251022-DEX480
 
-Touch point for students of August Mulesoft DataWeave
+Touch point for students of October Mulesoft DataWeave
 
 DEX480 - Anypoiont Development: DataWeave Classroom Reference - 251022 - PDT
 
