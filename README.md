@@ -1,8 +1,8 @@
-# 250924-DEX480
+# 251022-DEX480
 
 Touch point for students of August Mulesoft DataWeave
 
-DEX480 - Anypoiont Development: DataWeave Classroom Reference - 250924 - CDT
+DEX480 - Anypoiont Development: DataWeave Classroom Reference - 251022 - PDT
 
 Vincent Lowe
 vlowe@salesforce.com
@@ -20,7 +20,7 @@ eBook Redemption Key:
 -------------------------------------------------------------------------------------------------------------------
 Survey Link:								https://www.research.net/r/trailheadacademy
 
-Survey ID:								TASM-039143
+Survey ID:								
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -58,15 +58,6 @@ Classroom Playlist
 |Track Title|Artist|Notes|
 |-----------|------|-----|
 |Smooth Criminal|Luca Stricagnoli||
-|How Can You Mend a Broken Heart|Al Green||
-|Midnight Train to Georgia|Gladys Knight and the Pips||
-|Man of Constant Sorrow|Geoff Castellucci||
-|Sweet Home Alabama|Luca Stricagnoli||
-|Have You Ever Seen the Rain|Willie Nelson|feat. Paula Nelson|
-|The Streetbeater|Quincy Jones||
-|Ain't Misbehavin'|Leon Redbone||
-|The Hitter|Mark Erelli|Mark wil tell you he wrote this about his son|
-|The Final Countdown|Europe||
 
 
 
