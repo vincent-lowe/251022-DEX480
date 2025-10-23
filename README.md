@@ -24,6 +24,8 @@ Survey ID:								TASM-039145
 
 -------------------------------------------------------------------------------------------------------------------
 
+General Purpose DataWeave reference: https://github.com/vincent-lowe/dataweave-learning
+
 Class System Setup (pre-class): https://trailhead.salesforce.com/help?article=Computer-Setup-Guide-for-MuleSoft-Expert-Led-Classes#DEX480
 
 Advanced REST Client: https://github.com/advanced-rest-client/arc-electron/releases/tag/v17.0.9
