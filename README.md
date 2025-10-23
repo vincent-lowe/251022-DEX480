@@ -57,17 +57,16 @@ Classroom Playlist
 -------------------------------------------------------------------------------------------------------------------
 |Track Title|Artist|Notes|
 |-----------|------|-----|
-|Smooth Criminal|Luca Stricagnoli||
+|Smooth Criminal|Luca Stricagnoli|One man, one guitar, three necks|
 |Dos Oruguitas|Steven Joseph||
 |Here We Go Again|Ray Charles and Norah Jones||
 |How Can You Mend a Broken Heart|Al Green||
 |Have You Ever Seen the Rain|Willie Nelson|feat. Paula Nelson|
 |Good Morning American|Arlo Guthrie||
-|The Hitter|Mark Erelli||
+|The Hitter|Mark Erelli|Mark wrote this about his son|
 |Street Beater|Quincy Jones|TV theme from Sanford and Son|
-
-
-
+|Can't Find My Way Home|Bonnie Raitt|song by Stevie Winwood|
+|The Final Countdown|Europe|Big Hair Band FTW|
 
 
 
