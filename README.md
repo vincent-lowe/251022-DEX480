@@ -64,6 +64,7 @@ Classroom Playlist
 |Have You Ever Seen the Rain|Willie Nelson|feat. Paula Nelson|
 |Good Morning American|Arlo Guthrie||
 |The Hitter|Mark Erelli||
+|Street Beater|Quincy Jones|TV theme from Sanford and Son|
 
 
 
