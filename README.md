@@ -62,6 +62,8 @@ Classroom Playlist
 |Here We Go Again|Ray Charles and Norah Jones||
 |How Can You Mend a Broken Heart|Al Green||
 |Have You Ever Seen the Rain|Willie Nelson|feat. Paula Nelson|
+|Good Morning American|Arlo Guthrie||
+|The Hitter|Mark Erelli||
 
 
 
